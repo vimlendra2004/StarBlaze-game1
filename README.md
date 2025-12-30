@@ -1,1 +1,1 @@
-# StarBlaze-game1
+# StarBlaze-Game
